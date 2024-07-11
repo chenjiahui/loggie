@@ -176,6 +176,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/elastic/go-elasticsearch/v7 v7.17.10
 	github.com/goccy/go-yaml v1.11.0
+	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
 	github.com/mattn/go-sqlite3 v1.11.0
 	k8s.io/metrics v0.25.4
 	sigs.k8s.io/controller-runtime v0.13.1
